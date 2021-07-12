@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/imovelapp/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/imovelapp/static/js/main.f60a1161.chunk.js",
-    "main.js.map": "/imovelapp/static/js/main.f60a1161.chunk.js.map",
-    "runtime-main.js": "/imovelapp/static/js/runtime-main.7093d081.js",
-    "runtime-main.js.map": "/imovelapp/static/js/runtime-main.7093d081.js.map",
-    "static/js/2.dcda1841.chunk.js": "/imovelapp/static/js/2.dcda1841.chunk.js",
-    "static/js/2.dcda1841.chunk.js.map": "/imovelapp/static/js/2.dcda1841.chunk.js.map",
-    "static/js/3.05af38e5.chunk.js": "/imovelapp/static/js/3.05af38e5.chunk.js",
-    "static/js/3.05af38e5.chunk.js.map": "/imovelapp/static/js/3.05af38e5.chunk.js.map",
+    "main.css": "/imovelapp/static/css/main.75cb7a7a.chunk.css",
+    "main.js": "/imovelapp/static/js/main.5e03685b.chunk.js",
+    "main.js.map": "/imovelapp/static/js/main.5e03685b.chunk.js.map",
+    "runtime-main.js": "/imovelapp/static/js/runtime-main.a61f7b89.js",
+    "runtime-main.js.map": "/imovelapp/static/js/runtime-main.a61f7b89.js.map",
+    "static/js/2.730857ce.chunk.js": "/imovelapp/static/js/2.730857ce.chunk.js",
+    "static/js/2.730857ce.chunk.js.map": "/imovelapp/static/js/2.730857ce.chunk.js.map",
+    "static/js/3.943377e6.chunk.js": "/imovelapp/static/js/3.943377e6.chunk.js",
+    "static/js/3.943377e6.chunk.js.map": "/imovelapp/static/js/3.943377e6.chunk.js.map",
     "index.html": "/imovelapp/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/imovelapp/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.dcda1841.chunk.js.LICENSE.txt": "/imovelapp/static/js/2.dcda1841.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/imovelapp/static/media/logo.6ce24c58.svg"
+    "static/css/main.75cb7a7a.chunk.css.map": "/imovelapp/static/css/main.75cb7a7a.chunk.css.map",
+    "static/js/2.730857ce.chunk.js.LICENSE.txt": "/imovelapp/static/js/2.730857ce.chunk.js.LICENSE.txt",
+    "static/media/elegant-icons.css": "/imovelapp/static/media/ElegantIcons.a3709f85.svg",
+    "static/media/font-awesome.min.css": "/imovelapp/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/themify-icons.css": "/imovelapp/static/media/themify.f0fc8c79.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7093d081.js",
-    "static/js/2.dcda1841.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f60a1161.chunk.js"
+    "static/js/runtime-main.a61f7b89.js",
+    "static/js/2.730857ce.chunk.js",
+    "static/css/main.75cb7a7a.chunk.css",
+    "static/js/main.5e03685b.chunk.js"
   ]
 }
